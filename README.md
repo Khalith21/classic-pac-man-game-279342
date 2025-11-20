@@ -1,1 +1,3 @@
-# classic-pac-man-game-279342
+# Project Repository
+
+This is the initial README file for the project.
